@@ -19,6 +19,7 @@ en utilisant le meilleur des méthodes DOM HTML5  et des sélecteurs CSS .
 
 # Résultat
 
+<img width="1280" alt="Résultat" src="https://user-images.githubusercontent.com/72217871/101993581-0926fb80-3cbc-11eb-8df5-0f8e5ff541a0.png">
 
 
 
