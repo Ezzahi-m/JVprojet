@@ -9,7 +9,7 @@ Réalisation d’une petite application console avec le langage java pour affic
 
 # Jsoup
 
-jsoup est une bibliothèque Java pour travailler avec du HTML réel . Il fournit une API très pratique pour récupérer des URL et extraire et manipuler des données, 
+jsoup ( https://jsoup.org ) est une bibliothèque Java pour travailler avec du HTML réel . Il fournit une API très pratique pour récupérer des URL et extraire et manipuler des données, 
 en utilisant le meilleur des méthodes DOM HTML5  et des sélecteurs CSS .
 
 
