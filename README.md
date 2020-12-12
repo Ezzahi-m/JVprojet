@@ -1,2 +1,16 @@
 # JVprojet
 Application console java pour afficher la liste des publications sur google scholar
+
+# Objectif
+
+Réalisation d’une petite application console avec le langage java pour afficher la liste des publications sur Google Scholar 
+( https://scholar.google.com ) sur la console de notre compilateur a l'aide du bibliothèque Jsoup .
+
+
+# Jsoup
+
+jsoup est une bibliothèque Java pour travailler avec du HTML réel . Il fournit une API très pratique pour récupérer des URL et extraire et manipuler des données, 
+en utilisant le meilleur des méthodes DOM HTML5  et des sélecteurs CSS .
+
+
+
